@@ -1,0 +1,1 @@
+top_type	pr:GAUGE:U:U, ni:GAUGE:U:U, virt:GAUGE:0:U, res:GAUGE:0:U, shr:GAUGE:0:U, cpu:GAUGE:0:U, mem:GAUGE:0:U
